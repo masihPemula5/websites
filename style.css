@@ -9,13 +9,13 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('Madara.jpg') no-repeat;
+    background: url('Akatsuki.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .wrapper {
-    width: 420px;
+    width: 300px;
     background: transparent;
     border: 1px solid rgb(211, 207, 207);
     backdrop-filter: blur(20px);
